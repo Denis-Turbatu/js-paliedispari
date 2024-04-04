@@ -56,16 +56,16 @@ Dichiariamo chi ha vinto.
 
 ### INPUT
 
-- [] Dichiarare variabile con scelta pari o dispari
-- [] Dichiarare variabile con numero utente
-- [] Dichiarare variabile per numero casuale
+- [X] Dichiarare variabile con scelta pari o dispari
+- [X] Dichiarare variabile con numero utente
+- [X] Dichiarare variabile per numero casuale
 
 ### ESECUZIONE LOGICA
 
-- [] Fare file aggiuntivo per funzioni
-- [] Funzione per scelta tra pari e dispari
-- [] Funzione per scelta da 1 a 5 da parte dell'utente
-- [] Funzione per generare con Math.random() un numero da  1 a 5 per
+- [X] Fare file aggiuntivo per funzioni
+- [X] Funzione per scelta tra pari e dispari
+- [X] Funzione per scelta da 1 a 5 da parte dell'utente
+- [X] Funzione per generare con Math.random() un numero da  1 a 5 per
 - [] Funzione che prende il numero genereato casualmente e il numero dell'utente per sommarli
 - [] Nel file script.js eseguo un if per verificare se numero finale è pari o dispari
 
