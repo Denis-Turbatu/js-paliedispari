@@ -3,10 +3,10 @@
 
 
 // ESECUZIONE LOGICA
-
 const select = selectOddEven();
 const result = sumNums();
 
+// OUTPUT
 if(result % 2 == 0 && select == "pari"){
     console.log("È pari, corretto!");
 }else if (result % 2 == 0 && select == "dispari") {
