@@ -13,20 +13,22 @@ Creare una funzione per capire se la parola inserita è palindroma.
 
 ### INPUT
 
-- [] Creare una variabile per la parola inserita
+- [X] Creare una variabile per la parola inserita
+- [X] Creare una variabile per la parola inserita da inizio a fine
+- [X] Creare una variabile per la parola inserita da fine a inizio
 
 ### ESECUZIONE LOGICA
 
-- [] Creo un ciclo for con indice 'i' per scorrere la parola che è un array di caratteri dal primo all'ultimo carattere
-- [] Creo un ciclo secondo for con indice 'j' per scorrere la parola dall'ultimo carattere al primo
-- [] Creo un if che metterà a confronto 'word[i]' con 'word[j]' cosi la prima lettera sarà confrontata con l'ultima e con l'esecuione dei cicli avverrà il confront 
+- [X] Creo un ciclo for con indice 'i' per scorrere la parola che è un array di caratteri dal primo all'ultimo carattere
+- [X] Creo un ciclo secondo for con indice 'j' per scorrere la parola dall'ultimo carattere al primo
+- [X] Creo un if che metterà a confronto 'wordStart' con 'wordEnd'
 
 ### OUTPUT
 
-- [] Stampare il risultato
+- [X] Stampare il risultato
 
 ```
-Se (word[i] === word[j]){
+Se (wordStart === wordEnd){
     stampa palindroma
 }Altrimenti{
     stampa non è palindroma
