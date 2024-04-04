@@ -66,10 +66,10 @@ Dichiariamo chi ha vinto.
 - [X] Funzione per scelta tra pari e dispari
 - [X] Funzione per scelta da 1 a 5 da parte dell'utente
 - [X] Funzione per generare con Math.random() un numero da  1 a 5 per
-- [] Funzione che prende il numero genereato casualmente e il numero dell'utente per sommarli
-- [] Nel file script.js eseguo un if per verificare se numero finale è pari o dispari
+- [X] Funzione che prende il numero generato casualmente e il numero dell'utente per sommarli
+- [X] Nel file script.js eseguo un if per verificare se numero finale è pari o dispari
 
 
 ### OUTPUT
 
-- [] Stampare il risultato
+- [X] Stampare il risultato
